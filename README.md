@@ -21,7 +21,8 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png" alt="Robot Framework" width="40" height="40"/> </a> </p>
+<a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png" alt="Robot Framework" width="40" height="40"/> </a>
+<a href="https://pytest.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/> </a></p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
