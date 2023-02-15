@@ -1,3 +1,5 @@
+Throughout my academic and professional career, I have demonstrated competence with the following:
+
 <h3 align="left">Languages</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
